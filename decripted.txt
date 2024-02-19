@@ -1,0 +1,9 @@
+banana
+maimuta
+algoritmi
+fundamentali
+bipartit
+eulerian
+muchie
+hamiltonian
+critica
